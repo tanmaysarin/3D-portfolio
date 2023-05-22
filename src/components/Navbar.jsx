@@ -40,7 +40,7 @@ const Navbar = () => {
 
           {/** Add text to the right ride of the logo */}
           <p className='text-white text-[18px] cont-bold cursor-pointer flex'>
-            Tanmay Sarin &nbsp;
+            Tanmay Sarin&nbsp;
             <span className='sm:block hidden'>| Software Developer</span>
           </p>
           {/** Add text to the right ride of the logo */}
