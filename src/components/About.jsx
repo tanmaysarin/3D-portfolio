@@ -82,6 +82,7 @@ const About = () => {
           // Rendering a custom card
           <ServiceCard key = {service.title} index = {index} {...service} /> // index, all properties
           // Rendering a custom card
+          
         ))}
         {/** Services come from a js dictionary */}
 
