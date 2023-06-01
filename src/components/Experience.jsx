@@ -68,10 +68,10 @@ const Experience = () => {
       
       {/** Adding the heading for the Experience section */}
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>WHat I have done so far</p>
+        <p className={styles.sectionSubText}>What I have done so far</p>
         <h2 className={styles.sectionHeadText}>Work Experience.</h2>
       </motion.div>
-      {/** Adding the heading for the about section */}
+      {/** Adding the heading for the Experience section */}
 
       {/** Creating a holder to contain the timeline */}
       <div className="mt-20 flex flex-col">
